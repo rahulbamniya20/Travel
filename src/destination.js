@@ -83,6 +83,13 @@ const destinations = [
 		url: "https://cdn.pixabay.com/photo/2016/06/27/22/18/moscow-cathedral-mosque-1483524_960_720.jpg",
         price: 500,
         day: 5
+    },
+    {
+        id: 12,
+		name: 'China',
+		url: "https://cdn.pixabay.com/photo/2018/09/13/19/54/great-wall-3675637_960_720.jpg",
+        price: 500,
+        day: 5
     }
 ]
 
