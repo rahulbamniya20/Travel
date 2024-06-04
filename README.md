@@ -26,10 +26,6 @@ Welcome to Travelling Now, your one-stop solution for all your travel needs! Tra
 - Read reviews and ratings from other travelers.
 - Leave your own reviews and rate your stay.
 
-### Customer Support
-- 24/7 customer support to assist with any queries or issues.
-- Contact support via email, phone, or live chat.
-
 ## Getting Started
 
 1. **Sign Up**: Create a new account by providing your email and creating a password.
