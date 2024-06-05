@@ -8,6 +8,7 @@ const Home = () => {
 
     return (
         <div>
+{/*             <Navbar /> */}
             <Hero />
             <Main />
             <Video />
